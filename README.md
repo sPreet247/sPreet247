@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" color='blue' />][linkedin]
-
 <!--
 **sPreet247/sPreet247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
