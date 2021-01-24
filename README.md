@@ -2,6 +2,9 @@
 
 [<img align="left" alt="preet | Hotmail" width="22px" src="./icons/outlook.svg" />][hotmail]
 
+<br />
+<br />
+
 I'm a self-taught web developer and I'm hoping to enter the market in this new year of 2021 as a web dev!
 
 - 🔭 I’m currently working on a Tv Show App
