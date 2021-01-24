@@ -1,6 +1,6 @@
 # Hi there ,I'm Preet👋
 
-[<img align="left" alt="preet | Hotmail" width="100" src="./icons/outlook.svg" />][hotmail]
+[<img align="left" alt="preet | Hotmail" width="50" src="./icons/outlook.svg" />][hotmail]
 
 <br />
 <br />
