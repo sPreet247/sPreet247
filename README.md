@@ -1,6 +1,6 @@
 # Hi there ,I'm Preet👋
 
-[<img align="left" alt="preet | Hotmail" width="22px" src="./icons/outlook.svg" />][hotmail]
+-[<img align="left" alt="preet | Hotmail" width="22px" src="./icons/outlook.svg" />][hotmail]
 
 I'm a self-taught web developer and I'm hoping to enter the market in this new year of 2021 as a web dev!
 
