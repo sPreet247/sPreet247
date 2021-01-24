@@ -5,7 +5,6 @@
 <br />
 <br />
 <br />
-<br />
 
 I'm a self-taught web developer and I'm hoping to enter the market in this new year of 2021 as a web dev!
 
