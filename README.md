@@ -1,7 +1,7 @@
 # Hi there ,I'm Preet👋
 
 [<img align="left" alt="preet | Hotmail" width="40" src="./icons/outlook.svg" />][hotmail][<img align="left" alt="Preet | Twitter" width="40" src="./icons/twitter.svg" />][twitter]
-[<img align="left" alt="preet | Codepen" width="40" src="./icons/codepen.svg" />][codepen][<img align="left" alt="preet | Codepen" width="40" src="./icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="preet | Codepen" width="40" src="./icons/codepen.svg" />][codepen][<img align="left" alt="preet | Codepen" width="40" src="./icons/linkdin.svg" />][linkedin]
 
 <br />
 <br />
