@@ -1,6 +1,7 @@
 # Hi there ,I'm Preet👋
 
 [<img align="left" alt="preet | Hotmail" width="40" src="./icons/outlook.svg" />][hotmail][<img align="left" alt="Preet | Twitter" width="40" src="./icons/twitter.svg" />][twitter]
+[<img align="left" alt="preet | Codepen" width="40" src="./icons/codepen.svg" />][codepen]
 
 <br />
 <br />
@@ -25,3 +26,4 @@ I'm a self-taught web developer and I'm hoping to enter the market in this new y
 [hotmail]: mailto:singhsukhpreet@hotmail.com
 [linkedin]: https://www.linkedin.com/in
 [twitter]: https://twitter.com/spreet2472/
+[codepen]: https://codepen.io/spreet2472/pens/public
