@@ -25,5 +25,5 @@ I'm a self-taught web developer and I'm hoping to enter the market in this new y
 
 [hotmail]: mailto:singhsukhpreet@hotmail.com
 [linkedin]: https://www.linkedin.com/public-profile/in/sukhpreet-singh-05b098b4?challengeId=AQHnd96UDnMELAAAAXd6Wpj4urYnhOW7NEzZys8Wo0QlGCgpTlWEY-clYZ53kg6ZYYWVlbSiccaTqXSs12fVFgj4xKbqKlpPxQ&submissionId=0c986cd9-b856-6116-7217-3ebb59c4e910
-[twitter]: https://twitter.com/spreet2472/
+[twitter]: https://twitter.com/iamspreet/
 [codepen]: https://codepen.io/spreet2472/pens/public
