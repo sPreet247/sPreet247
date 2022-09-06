@@ -7,11 +7,9 @@
 <br />
 <br />
 
-I'm a web developer
+I'm a web developer based in Canada.
 
 - 🔭 I’m currently working on a Tv Show App
-
-- 🌱 I’m currently learning a lot
 
 - 👯 Open for collaborations
 
